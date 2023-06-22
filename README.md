@@ -5,3 +5,4 @@ Before we go into the details of cryptography, first we need to know the encoded
 ### Public key cryptosystems
 In this file, I have discussed almost all the public key cryptosystems that are widely used and taught at the basics level. The cryptosystems that I have discussed are Shift cipher, Substitution cipher, Affine cipher, VIgener cipher, Hill cipher, and Permutation(transposition) cipher. I have also explained a little bit about the cryptosystems so that if anyone wants to do the transformation from plaintext to ciphertext, that individual can do that by himself. 
 ### Algorithms
+Here, I have developed the codes for different cryptographic algorithms. The algorithms are RSA (Rivest, Shamir, Adleman), some primality testing methods (Solovay-Strassen test, Miller-Rabin test), Pollard p-1 method, Pollard Rho method, Elgamal cryptosystem, Baby-steps and Giant-steps, Pollard Rho method, Index Calculus, Pohlig-Hellman for solving the discrete logarithm,  
